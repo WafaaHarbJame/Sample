@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="arr_dither">
+	    <item>Use</item>
+	    <item>Unused</item>
+	</array>
+	<array name="arr_rfid_transponder_type">
+		<item>None</item>
+		<item>ISO 18000-6 Type A</item>
+		<item>ISO 18000-6 Type B</item>
+		<item>EPC Class 0</item>
+		<item>EPC Class 1</item>
+		<item>EPC Class 1 Generation 2</item>
+	</array>
+	<array name="arr_rfid_data_type">
+		<item>ASCII</item>
+		<item>Hexadecimal</item>
+		<item>EPC</item>
+		<item>User Area Hexdecimal</item>
+	</array>
+    <array name="ttf_font_list">
+        <item>H2GTRE.TTF</item>
+    </array>
+</resources>
